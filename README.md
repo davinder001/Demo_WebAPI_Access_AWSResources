@@ -42,3 +42,16 @@ Make sure to configure your AWS credentials and region in your `appsettings.deve
         "Region": "your-region"
     }
 }
+
+## Keywords
+- AWS S3
+- Amazon S3
+- AWS SDK
+- Git
+- Cloud Storage
+- Bucket Management
+- File Upload
+- File Download
+
+
+
