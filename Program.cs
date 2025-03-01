@@ -1,7 +1,6 @@
 using Amazon.Runtime;
 using Amazon.S3;
 using Demo_WebAPI_Access_AWSResources.Services;
-using Microsoft.AspNetCore.Builder;
 
 var builder = WebApplication.CreateBuilder(args);
 

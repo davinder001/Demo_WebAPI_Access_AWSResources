@@ -1,8 +1,5 @@
-using Amazon.S3.Model;
-using Amazon.S3.Model.Internal.MarshallTransformations;
 using Demo_WebAPI_Access_AWSResources.Services;
 using Microsoft.AspNetCore.Mvc;
-using Swashbuckle.AspNetCore.Annotations;
 
 namespace Demo_WebAPI_Access_AWSResources.Controller
 {
