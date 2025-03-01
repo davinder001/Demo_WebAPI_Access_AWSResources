@@ -42,6 +42,7 @@ Make sure to configure your AWS credentials and region in your `appsettings.deve
         "Region": "your-region"
     }
 }
+```
 
 ## Keywords
 - AWS S3
@@ -52,6 +53,8 @@ Make sure to configure your AWS credentials and region in your `appsettings.deve
 - Bucket Management
 - File Upload
 - File Download
+
+
 
 
 
