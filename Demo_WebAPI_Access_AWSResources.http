@@ -1,0 +1,6 @@
+@Demo_WebAPI_Access_AWSResources_HostAddress = http://localhost:5057
+
+GET {{Demo_WebAPI_Access_AWSResources_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
